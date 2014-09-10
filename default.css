@@ -1,0 +1,47 @@
+navigation-bar{
+    background-color: #CCFEFF;
+}
+navigation-bar .rightButton{
+    color: white;
+    background-color: #073D30;
+}
+navigation-bar .leftButton{
+    color: #073D30;
+}
+navigation-bar title{
+    color: #073D30;
+}
+text-field:normal {
+    border-radius: 3;
+    -ios-border-style: none;
+    background-color: #CCFEFF;
+    border-width: 1px;
+    border-color: #cccccc;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+    height: 35;
+    padding : 1px;
+}
+text-field:highlighted {
+    background-color: #ffffff;
+    border-radius: 3;
+    -ios-border-style: none;
+    border-width: 1px;
+    border-color: rgba(0, 148, 217, 0.8);
+    box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.075), 0 0 2px rgba(0, 148, 217, 1.0);
+    height: 35;
+    padding : 1px;    
+}
+.navBar button-appearance{
+    color: white;
+    background-color: #073D30;
+}
+
+.navItem bar-bar-button{
+    background-color: #073D30;
+    color: white;
+}
+
+.navButton{
+    background-color: #073D30;
+    color: white;
+}
